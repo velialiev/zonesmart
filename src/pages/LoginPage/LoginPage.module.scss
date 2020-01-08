@@ -1,0 +1,20 @@
+.login-page-box {
+  width: 400px;
+}
+
+form {
+  display: flex;
+  flex-flow: column;
+}
+
+.proceed-btn {
+  width: 100px;
+  align-self: flex-end;
+}
+
+.title {
+  margin-top: 0;
+  margin-bottom: 40px;
+  font-size: 25px;
+}
+

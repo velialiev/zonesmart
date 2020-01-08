@@ -1,0 +1,25 @@
+body {
+  background-color: #39548F;
+  font-family: Roboto, sans-serif;
+  margin: 0;
+}
+
+.mb-20 {
+  margin-bottom: 20px !important;
+}
+
+.box {
+  padding: 20px;
+  border-radius: 3px;
+  background-color: #fff;
+  display: flex;
+  flex-flow: column;
+  max-height: 80vh;
+}
+
+.center-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
